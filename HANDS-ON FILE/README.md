@@ -1,1 +1,2 @@
-## LEVEL 2, NUMBER 2
+## HANDS-ON SCREENSHOTS
+All screenshots of outputs go to folder --> ASSETS
